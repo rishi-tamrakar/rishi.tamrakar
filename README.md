@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @rishitamrakar
 - 👀 I’m interested in learning the Data world
-- 🌱 I’m currently learning AWS Developer Associate Course
+- :cloud: GCP Certified Professional Data Engineer
+- 🌱 I’m currently learning ML and Generative AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rishi.tamrakar@yahoo.com
+- 📫 How to reach me ... rishikumartamrakar@gmail.com 
+- Connect with me on LinkedIn ... https://www.linkedin.com/in/rishitamrakar/
+- Find my blogs on Medium ... https://medium.com/@rishitamrakar
 
 <!---
 rishitamrakar/rishitamrakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
