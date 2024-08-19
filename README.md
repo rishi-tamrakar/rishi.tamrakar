@@ -3,6 +3,7 @@
 - :cloud: GCP Certified Professional Data Engineer
 - 🌱 I’m currently learning ML and Generative AI
 - 💞️ I’m looking to collaborate on ...
+- 🙋🏻‍♂️ Know about me ... https://rishibytes.com/
 - 📫 How to reach me ... rishikumartamrakar@gmail.com 
 - Connect with me on LinkedIn ... https://www.linkedin.com/in/rishitamrakar/
 - Find my blogs on Medium ... https://medium.com/@rishibytes
