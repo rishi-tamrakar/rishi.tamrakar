@@ -6,7 +6,7 @@
 - 🙋🏻‍♂️ Know about me ... https://rishitamrakar.com/
 - 📫 How to reach me ... rishikumartamrakar@gmail.com 
 - Connect with me on LinkedIn ... https://www.linkedin.com/in/rishitamrakar/
-- Find my blogs on Medium ... https://medium.com/@rishibytes
+- Find my blogs on Medium ... https://medium.com/@rishitamrakar
 
 <!---
 rishitamrakar/rishitamrakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
