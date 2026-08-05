@@ -40,7 +40,7 @@ Outside work, I share practical lessons about data engineering, architecture tra
 ## Selected projects
 
 - **[todo-bytes](https://github.com/rishitamrakar/todo-bytes)** — lightweight YAML-based task management with a CLI and browser UI
-- **[hello-dbt](https://github.com/rishitamrakar/hello-dbt)** — practical examples for learning dbt Core and analytics engineering fundamentals
+- **[hello-openclaw](https://github.com/rishitamrakar/hello-openclaw)** — Docker-based starter for running OpenClaw locally in an isolated container
 - **[rishibytes.com](https://rishibytes.com)** — my home for recent videos, articles, and ideas across data engineering and AI
 
 ## Recent content
@@ -62,7 +62,9 @@ Find the latest articles and videos at **[rishibytes.com](https://rishibytes.com
 
 ## Credentials & recognition
 
-I earned the Google Cloud Professional Data Engineer certification and have completed learning programs across GCP, AWS, Airflow, Databricks, Dremio, and applied AI. This repository includes a [historical archive of credentials and recognition](Achievements/README.md).
+**Google Cloud Professional Data Engineer** — earned May 2023, expired May 2025.
+
+I have also completed learning programs across GCP, AWS, Airflow, Databricks, Dremio, and applied AI. See [selected credentials and recognition](Achievements/README.md) for dates and available verification links.
 
 ## Let's connect
 
