@@ -1,35 +1,26 @@
 # Credentials & recognition
 
-A historical archive of professional credentials, learning certificates, event accreditations, and awards.
-
-> Credential validity changes over time. Refer to the issuing organisation for current status.
+Selected professional credentials, learning milestones, event participation, and workplace recognition. Original employee documents and credential PDFs are not published here to minimise unnecessary personal and third-party information.
 
 ## Professional certification
 
-- [Google Cloud Professional Data Engineer](Professional%20Certifications/GCP%20Professional%20Data%20Engineer.pdf)
+- **Google Cloud Professional Data Engineer** — earned May 2023, expired May 2025
 
-## Learning certificates
+## Verified learning
 
-- [Apache Airflow](Learning%20Certifications/Apache%20Airflow.pdf)
-- [AWS Chalice](Learning%20Certifications/AWS%20Chalice.pdf)
-- [Databricks Fundamentals](Learning%20Certifications/Databricks%20Fundamentals.png)
-- [Dremio 101](Learning%20Certifications/Dremio%20101.pdf)
-- [Dremio 102](Learning%20Certifications/Dremio%20102.pdf)
-- [GCP Fundamentals](Learning%20Certifications/GCP%20Fundamentals.pdf)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/NPK3X5MFUE75) — completed October 2020
+- [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/certificate/UC-05cf11ec-ecd6-4914-bed2-27f07c0d258e/) — completed April 2021
+- [AWS Chalice: Build Serverless REST APIs on AWS](https://www.udemy.com/certificate/UC-8443102e-8d9b-40a1-a724-143992458902/) — completed September 2024
+- **Databricks Accredited Databricks Fundamentals** — earned August 2024, expired August 2025
+- **Dremio Fundamentals (D101) and Data Reflections (D102)** — completed 2019
 
-## Event accreditations
+## Google Cloud events
 
-- [GCP Applied AI Summit](Accreditation/GCP%20Applied%20AI%20Summit.pdf)
-- [Google Cloud Next '24](Accreditation/Google%20Cloud%20Next24.pdf)
-- [Google Cloud Technical Series](Accreditation/Google%20Cloud%20Technical%20Series.pdf)
-- [Google Cloud Technical Series: AI Edition](Accreditation/Google%20Cloud%20Technical%20Series%20AI%20Edition.pdf)
+- [Cloud Technical Series](Badge/GCP%20Technical%20Series.png) — March 2023
+- [Applied AI Summit](Badge/GCP%20Applied%20AI%20Summit.png) — January 2024
+- [Cloud Technical Series: AI Edition](Badge/Google%20Cloud%20Technical%20Series%20AI%20Edition.png) — March 2024
+- **Best of Google Cloud Next '24** — April 2024
 
-Related badge images are available in the [Badge](Badge) directory.
+## Workplace recognition
 
-## Awards
-
-- [TCS Gems Appreciation](Awards/TCS%20Gems%20Appreciation.pdf)
-- [TCS Gems — November 2017](Awards/TCS%20Gems%20Nov%202017.pdf)
-- [TCS Gems — October 2018](Awards/TCS%20Gems%20Oct%202018.pdf)
-- [TCS On the Spot — June 2017](Awards/TCS%20On%20the%20spot%20Jun%202017.pdf)
-- [TCS On the Spot — April 2018](Awards/TCS%20On%20The%20spot%20Apr%202018.pdf)
+Received multiple TCS awards between 2016 and 2018, including Star of the Month, Best Team, and On the Spot awards. The original internal documents are intentionally not published.
